@@ -1,6 +1,7 @@
 package com.demos.cine.modele;
 
 public class Article {
+	private int j;
 	private String reference;
 	private double prixHT;
 	private String designation;
